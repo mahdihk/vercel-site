@@ -1,0 +1,7 @@
+{
+  "name": "vercel-xhttp-relay",
+  "version": "1.0.0",
+  "description": "site on Vercel",
+  "private": true,
+  "license": "MIT"
+}
